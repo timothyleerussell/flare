@@ -1,10 +1,10 @@
 # PhaserPluginDVR proof of concept / prototype
 
-Flare is a simple test bed for the PhaserPluginDVR proof of concept / prototype.
+Flare is a simple test bed for the {https://github.com/timothyleerussell/phaser-plugin-dvr|PhaserPluginDVR} proof of concept / prototype.
 
 ### Requirements
 
-[Node.js](https://nodejs.org).
+[Node.js](https://nodejs.org)
 
 ## Install and run
 
@@ -17,20 +17,18 @@ Flare is a simple test bed for the PhaserPluginDVR proof of concept / prototype.
 
 # Credits
 
-Phaser 3
-Richard Davey <rich@photonstorm.com>
-2018 Photon Storm Ltd.
-{@link https://github.com/photonstorm/phaser3-plugin-template/blob/master/LICENSE|MIT License}
+Phaser
+Richard Davey <rich@photonstorm.com>  
+2018 Photon Storm Ltd. 
+{https://github.com/photonstorm/phaser|Phaser}  
 
 =====
 
-MediaStreamRecorder
-Open-Sourced: https://github.com/streamproc/MediaStreamRecorder
-
-Muaz Khan     - www.MuazKhan.com
-MIT License   - www.WebRTC-Experiment.com/licence
+{https://github.com/streamproc/MediaStreamRecorder|MediaStreamRecorder}  
+Muaz Khan     - www.MuazKhan.com  
+MIT License   - www.WebRTC-Experiment.com/licence  
 
 =====
 
-DVR plugin idea and rough initial prototype by Timothy Lee Russell
-{@link https://snoffleware.com|Snoffleware Studios LLC}
+DVR plugin idea and rough initial prototype by Timothy Lee Russell  
+{https://snoffleware.com|Snoffleware Studios LLC}  
