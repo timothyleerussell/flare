@@ -19,7 +19,7 @@ Flare is a simple test bed for the [PhaserPluginDVR](https://github.com/timothyl
 
 Phaser
 Richard Davey <rich@photonstorm.com>  
-2018 Photon Storm Ltd. 
+2018 Photon Storm Ltd.  
 [Phaser](https://github.com/photonstorm/phaser)  
 
 =====
